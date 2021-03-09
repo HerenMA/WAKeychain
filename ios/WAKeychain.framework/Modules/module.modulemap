@@ -1,0 +1,6 @@
+framework module WAKeychain {
+  umbrella header "WAKeychain.h"
+
+  export *
+  module * { export * }
+}
